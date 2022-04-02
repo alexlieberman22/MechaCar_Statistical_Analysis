@@ -10,3 +10,8 @@
 
 ![](https://github.com/alexlieberman22/MechaCar_Statistical_Analysis/blob/main/Images/Del%202%20(by%20Lot).PNG)
 
+## T-Tests on Suspension Coils
+
+![](https://github.com/alexlieberman22/MechaCar_Statistical_Analysis/blob/main/Images/Del%203%20(total).PNG)
+
+![](https://github.com/alexlieberman22/MechaCar_Statistical_Analysis/blob/main/Images/Del%203%20(by%20Lot).PNG)
